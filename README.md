@@ -14,6 +14,7 @@ data source : https://www.kaggle.com/datasets/rohanrao/formula-1-world-champions
      In this study I choose only 2023 season to ananlyze.
 
 ## Average lap time of each Driver in every matches in 2023 season.
+worksheet : https://colab.research.google.com/drive/1SGflMNVgo0TQ0AZ3aKj7nxvdjlmuYH8N#scrollTo=MXK5xU3oA0J3
 ![newplot (1)](https://github.com/TripopN/data-visualization-with-plotly-express/assets/150440919/2321329e-d0b9-4560-9622-8790ddda9085)
 
    I choose 'lap_times' that contain number of lab and time of each lab in millisecond. merge with 'races1' table that contain all race in formation.
